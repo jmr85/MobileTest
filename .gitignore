@@ -1,0 +1,38 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+logs/
+src/main/resources/config.json
+evidence/
+
+# Reports
+test-output/
+reports/
