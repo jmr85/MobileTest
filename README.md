@@ -21,10 +21,11 @@ capability builder
 { 
 	"platformName": "Android", 
 	"appium:options": { 
-		"automationName": "UiAutomator2", "platformVersion": "15.0",
-		 "app": "C:\\Users\\{user_name}\\eclipse-workspace\\MobileTest\\src\\ApiDemos-debug.apk", 
-         "deviceName": "Pixel_Tablet_API_35", 
-		 "noReset": true 
+		"automationName": "UiAutomator2", 
+		"platformVersion": "15.0",
+		"app": "C:\\Users\\{user_name}\\eclipse-workspace\\MobileTest\\src\\ApiDemos-debug.apk", 
+        "deviceName": "Pixel_Tablet_API_35", 
+		"noReset": true 
 	} 
 }
 ```
